@@ -1,3 +1,3 @@
 # hello-world
 Riitta
-testing
+print("hello")
